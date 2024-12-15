@@ -8,15 +8,17 @@ hero:
   tagline: 使用了基于 VitePress 的个人前端导航页面模板
   image:
     src: /logo.png
-    alt: 茂茂物语
+    alt: 地球村文档
   actions:
-    - text: 茂茂物语
-      link: https://notes.fe-mm.com
-    - text: 前端导航
+    - text: 地球村主页
+      link: https://emc.mysxl.cn
+    - text: 文档目录
       link: /nav/
       theme: alt
-    - text: mmPlayer
-      link: https://netease-music.fe-mm.com
+    - text: 地球村地图集
+      link: https://map.earthvillage.top
+    - text: 逆天名人榜
+      link: https://lezi.earthvillage.top
     - text: 测试页
       link: /test
       theme: alt
