@@ -19,7 +19,7 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://tinypng.com/images/apple-touch-icon.png',
         title: '菜单',
         desc: '几乎所有的功能都在里面了',
-        link: '/md/菜单',
+        link: '/md/菜单/菜单',
       },
       {
         icon: 'https://devtool.tech/logo.svg',
