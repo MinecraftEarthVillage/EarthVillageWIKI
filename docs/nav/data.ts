@@ -48,13 +48,13 @@ export const NAV_DATA: NavData[] = [
         icon: '/logo.png',
         title: 'MTR铁路系统',
         desc: '不只是轨道~',
-        link: '/md/mtr',
+        link: '/md/MTR/mtr',
       },
       {
         icon: '/logo.png',
         title: '公路与自由载具',
         desc: '用思维导图的方式总结个人所学知识',
-        link: '/md/载具',
+        link: '/md/载具/载具',
       },
 
     ],
