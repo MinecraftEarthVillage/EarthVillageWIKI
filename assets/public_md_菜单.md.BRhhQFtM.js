@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BJWcFVgF.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"public/md/菜单.md","filePath":"public/md/菜单.md","lastUpdated":1734352649000}'),c={name:"public/md/菜单.md"};function r(o,s,d,n,p,i){return a(),t("div")}const l=e(c,[["render",r]]);export{m as __pageData,l as default};
