@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./chunks/framework.BbDTJmwM.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"public/md/mtr.md","filePath":"public/md/mtr.md","lastUpdated":1734352649000}'),r={name:"public/md/mtr.md"};function c(o,s,m,d,n,p){return a(),e("div")}const _=t(r,[["render",c]]);export{l as __pageData,_ as default};
