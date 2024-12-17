@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.ChmBInPr.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"article/mtr.md","filePath":"article/mtr.md","lastUpdated":1734403490000}'),r={name:"article/mtr.md"};function c(o,s,n,i,m,d){return a(),e("div")}const _=t(r,[["render",c]]);export{l as __pageData,_ as default};
