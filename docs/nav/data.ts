@@ -19,7 +19,7 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://tinypng.com/images/apple-touch-icon.png',
         title: '菜单',
         desc: '几乎所有的功能都在里面了',
-        link: '/md/菜单/菜单',
+        link: '/article/菜单',
       },
       {
         icon: 'https://devtool.tech/logo.svg',
@@ -48,13 +48,13 @@ export const NAV_DATA: NavData[] = [
         icon: '/logo.png',
         title: 'MTR铁路系统',
         desc: '不只是轨道~',
-        link: '/md/MTR/mtr',
+        link: '/article/mtr',
       },
       {
         icon: '/logo.png',
         title: '公路与自由载具',
         desc: '用思维导图的方式总结个人所学知识',
-        link: '/md/载具/载具',
+        link: '/article/载具',
       },
 
     ],

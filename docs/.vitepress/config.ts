@@ -8,7 +8,8 @@ const APP_BASE_PATH = basename(process.env.GITHUB_REPOSITORY || '')
 
 export default defineConfig({
   outDir: '../dist',
-  base: '/',
+  srcDir: './'
+  base: './docs/public/md',
 
   lang: 'zh-CN',
   title: '地球村文档',
