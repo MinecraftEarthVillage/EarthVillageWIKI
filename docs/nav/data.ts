@@ -97,6 +97,12 @@ export const NAV_DATA: NavData[] = [
         desc: '用思维导图的方式总结个人所学知识',
         link: '/article/载具',
       },
+      {
+        icon: '/logo.png',
+        title: '创造模式',
+        desc: '独家创造模式体验系统<br>随时切换',
+        link: '/article/创造模式体验系统',
+      },
     ],
   },
 ]
