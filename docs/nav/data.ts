@@ -16,6 +16,12 @@ export const NAV_DATA: NavData[] = [
         link: 'https://map.earthvillage.top',
       },
       {
+        icon: 'https://caniuse.com/img/favicon-128.png',
+        title: '最基础',
+        desc: '笨蛋式教学',
+        link: '/article/基础',
+      },
+      {
         icon: 'https://tinypng.com/images/apple-touch-icon.png',
         title: '菜单',
         desc: '几乎所有的功能都在里面了',
@@ -42,25 +48,36 @@ export const NAV_DATA: NavData[] = [
     ],
   },
   {
-    title: '交通系统',
+    title: 'MOD部分',
     items: [
       {
         icon: '/logo.png',
-        title: 'MTR铁路系统',
+        title: 'MTR铁路',
         desc: '不只是轨道~',
         link: '/article/mtr',
       },
       {
         icon: '/logo.png',
-        title: '公路与自由载具',
-        desc: '用思维导图的方式总结个人所学知识',
-        link: '/article/载具',
+        title: 'MTR-航海',
+        desc: '不只是轨道~',
+        link: '/article/mtr',
       },
-
+      {
+        icon: '/logo.png',
+        title: 'MTR-航空',
+        desc: '不只是轨道~',
+        link: '/article/mtr',
+      },
+      {
+        icon: '/logo.png',
+        title: 'YSM模型',
+        desc: '与众不同的4D皮肤',
+        link: '/article/mtr',
+      },
     ],
   },
   {
-    title: '领主与领地',
+    title: '插件部分',
     items: [
       {
         icon: 'https://qwerty.fe-mm.com/apple-touch-icon.png',
@@ -73,6 +90,12 @@ export const NAV_DATA: NavData[] = [
         title: '个人领地',
         desc: '面向个人的领地保护系统',
         link: 'https://netease-music.fe-mm.com',
+      },
+      {
+        icon: '/logo.png',
+        title: '公路与自由载具',
+        desc: '用思维导图的方式总结个人所学知识',
+        link: '/article/载具',
       },
     ],
   },

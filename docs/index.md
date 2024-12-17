@@ -23,19 +23,19 @@ hero:
       link: /test
       theme: alt
 features:
-  - icon: 📖
+  - icon: 📘
     title: 入门
     details: 整理最基础的教程<small>（笨蛋教学）</small><br />如有异议按你的理解为主，不接受反驳
-    link: https://notes.fe-mm.com/fe/javascript/types
-    linkText: 前端常用知识
-  - icon: 📘
+    link: /article/基础
+    linkText: 第一次玩MC戳我yeeeeeeeeeeeeeeeee
+  - icon: 📖
     title: 进阶
-    details: 了解各种库的实现原理<br />学习其中的小技巧和冷知识
-    link: https://notes.fe-mm.com/analysis/utils/only-allow
-    linkText: 源码阅读
+    details: 了解服务器的菜单、侧边栏等辅助功能
+    link: /article/菜单
+    linkText: 开始阅读
   - icon: 💡
     title: 高级
-    details: 在工作中学到的一切<small>（常用库/工具/奇淫技巧等）</small><br />配合 CV 大法来更好的摸鱼
+    details: 了解各种原版之外的附加功能的正确打开方式<br />学习其中的小技巧和冷知识
     link: https://notes.fe-mm.com/workflow/utils/library
     linkText: 常用工具库
 ---
