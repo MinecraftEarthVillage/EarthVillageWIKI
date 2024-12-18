@@ -1,5 +1,11 @@
 # MTR全教程
 
+## 别人的视频教学
+
+这个视频是比较旧的版本，不过也大同小异
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=932197515&bvid=BV18M4y157Ng&cid=398960717&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 ## 准备材料
 
 **铁路仪表盘、站台轨道连接器（红轨）、车库轨道连接器（黄轨）、普通轨道（按矿石材料不同会有不同速度）、轨道节点**
