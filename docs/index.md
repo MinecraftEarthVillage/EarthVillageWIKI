@@ -36,7 +36,7 @@ features:
   - icon: 💡
     title: 高级
     details: 了解各种原版之外的附加功能的正确打开方式<br />学习其中的小技巧和冷知识
-    link: https://notes.fe-mm.com/workflow/utils/library
+    link: /nav/#mod%E9%83%A8%E5%88%86
     linkText: 常用工具库
 ---
 
