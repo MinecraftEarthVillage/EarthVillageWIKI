@@ -24,13 +24,13 @@ export const NAV_DATA: NavData[] = [
       {
         icon: 'https://tinypng.com/images/apple-touch-icon.png',
         title: '菜单',
-        desc: '几乎所有的功能都在里面了',
+        desc: '几乎所有的功能都在里面了，笨蛋式教学，让你学会主菜单的正确食用方式',
         link: '/article/菜单',
       },
       {
         icon: 'https://devtool.tech/logo.svg',
         title: 'MOD全家桶',
-        desc: '地球村可用MOD全家桶，解锁所有玩法最好的选择！',
+        desc: '地球村MOD客户端全家桶，解锁所有玩法最好的选择！',
         link: 'https://www.123pan.com/s/WiuUVv-KNG0H.html',
       },
 /*       {
@@ -56,10 +56,10 @@ export const NAV_DATA: NavData[] = [
         desc: '不只是轨道~',
         link: '/article/mtr',
       },
-        {
+     {
         icon: '/logo.png',
         title: 'MTR帮助',
-        desc: '关于MTR铁路的帮助文档',
+        desc: '关于MTR（铁路部分）的常见问题文档',
         link: '/article/mtrquesten',
       },
       {
@@ -89,13 +89,13 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://qwerty.fe-mm.com/apple-touch-icon.png',
         title: '王国系统',
         desc: '为团体服务的领地保护与国战系统',
-        link: 'https://qwerty.fe-mm.com',
+        link: '/article/王国',
       },
       {
         icon: '/logo.png',
         title: '个人领地',
         desc: '面向个人的领地保护系统',
-        link: 'https://netease-music.fe-mm.com',
+        link: '/article/个人领地.md',
       },
       {
         icon: '/logo.png',
@@ -105,8 +105,8 @@ export const NAV_DATA: NavData[] = [
       },
       {
         icon: '/logo.png',
-        title: '创造模式',
-        desc: '独家创造模式体验系统<br>随时切换',
+        title: '创造模式与多模式',
+        desc: '独家创造模式体验系统，随时切换游戏模式',
         link: '/article/创造模式体验系统',
       },
     ],
