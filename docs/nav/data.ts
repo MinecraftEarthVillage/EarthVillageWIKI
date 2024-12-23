@@ -49,6 +49,35 @@ export const NAV_DATA: NavData[] = [
     ],
   },
   {
+    title: '插件部分',
+    items: [
+      {
+        icon: 'https://qwerty.fe-mm.com/apple-touch-icon.png',
+        title: '王国系统',
+        desc: '为团体服务的领地保护与国战系统',
+        link: '/article/王国',
+      },
+      {
+        icon: '/logo.png',
+        title: '个人领地',
+        desc: '面向个人的领地保护系统',
+        link: '/article/个人领地',
+      },
+      {
+        icon: '/logo.png',
+        title: '公路与自由载具',
+        desc: '不受限于轨道和时刻表的车子',
+        link: '/article/载具',
+      },
+      {
+        icon: '/logo.png',
+        title: '创造模式与多模式',
+        desc: '独家创造模式体验系统，随时切换游戏模式',
+        link: '/article/创造模式体验系统',
+      },
+    ],
+  },
+  {
     title: 'MOD部分',
     items: [
       {
@@ -80,35 +109,6 @@ export const NAV_DATA: NavData[] = [
         title: 'YSM模型',
         desc: '与众不同的4D皮肤',
         link: '/article/YSM',
-      },
-    ],
-  },
-  {
-    title: '插件部分',
-    items: [
-      {
-        icon: 'https://qwerty.fe-mm.com/apple-touch-icon.png',
-        title: '王国系统',
-        desc: '为团体服务的领地保护与国战系统',
-        link: '/article/王国',
-      },
-      {
-        icon: '/logo.png',
-        title: '个人领地',
-        desc: '面向个人的领地保护系统',
-        link: '/article/个人领地',
-      },
-      {
-        icon: '/logo.png',
-        title: '公路与自由载具',
-        desc: '不受限于轨道和时刻表的车子',
-        link: '/article/载具',
-      },
-      {
-        icon: '/logo.png',
-        title: '创造模式与多模式',
-        desc: '独家创造模式体验系统，随时切换游戏模式',
-        link: '/article/创造模式体验系统',
       },
     ],
   },
