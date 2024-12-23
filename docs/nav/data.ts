@@ -11,12 +11,6 @@ export const NAV_DATA: NavData[] = [
     items: [
       {
         icon: 'https://caniuse.com/img/favicon-128.png',
-        title: '地图集',
-        desc: '可以让你随时查看不同视角地图，还能作为聊天室',
-        link: 'https://map.earthvillage.top',
-      },
-      {
-        icon: 'https://caniuse.com/img/favicon-128.png',
         title: '最基础',
         desc: '笨蛋式教学',
         link: '/article/基础',
@@ -27,6 +21,13 @@ export const NAV_DATA: NavData[] = [
         desc: '几乎所有的功能都在里面了，笨蛋式教学，让你学会主菜单的正确食用方式',
         link: '/article/菜单',
       },
+      {
+        icon: 'https://caniuse.com/img/favicon-128.png',
+        title: '地图集',
+        desc: '可以让你随时查看不同视角地图，还能作为聊天室',
+        link: '/article/地图',
+      },
+
       {
         icon: 'https://devtool.tech/logo.svg',
         title: 'MOD全家桶',
@@ -66,19 +67,19 @@ export const NAV_DATA: NavData[] = [
         icon: '/logo.png',
         title: 'MTR-航海',
         desc: '不只是轨道~',
-        link: '/article/mtr',
+        link: '/article/mtr航海',
       },
       {
         icon: '/logo.png',
         title: 'MTR-航空',
         desc: '不只是轨道~',
-        link: '/article/mtr',
+        link: '/article/mtr飞机',
       },
       {
         icon: '/logo.png',
         title: 'YSM模型',
         desc: '与众不同的4D皮肤',
-        link: '/article/mtr',
+        link: '/article/YSM',
       },
     ],
   },
@@ -95,12 +96,12 @@ export const NAV_DATA: NavData[] = [
         icon: '/logo.png',
         title: '个人领地',
         desc: '面向个人的领地保护系统',
-        link: '/article/个人领地.md',
+        link: '/article/个人领地',
       },
       {
         icon: '/logo.png',
         title: '公路与自由载具',
-        desc: '用思维导图的方式总结个人所学知识',
+        desc: '不受限于轨道和时刻表的车子',
         link: '/article/载具',
       },
       {
