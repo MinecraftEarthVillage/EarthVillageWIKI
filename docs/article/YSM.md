@@ -1,5 +1,7 @@
 # YSM MOD
 
+Yes Steve Model 模组是一个修改原版玩家模型的 `Minecraft Forge 或 Fabric` 模组，它能够使用 Minecraft 基岩版格式模型和动画文件。从而使玩家能够随心所欲的自定义玩家模型和动画。
+
 ## 必要前置条件
 
 <details>
@@ -7,6 +9,8 @@
 <summary>点击展开</summary>
 
 <span style="color: red;">你必须安装[YSM模组](https://modrinth.com/mod/yes-steve-model/version/xPJXJg4B)</span>
+
+和MTR模组不同，YSM经测试可以使用fabric版本也能使用皮肤
 
 如果你直接使用了我们的整合包，则忽略这段提示，我们已经预置了所需MOD
 
@@ -45,3 +49,9 @@
 ![](/others/YSM/3.png)
 
 ![](/others/YSM/4.png)
+
+# 官方文档
+
+YSM官方的最全文档，包括使用到DIY建模
+
+[>>点我](http://page.cfpa.team/ysm/zh/)
