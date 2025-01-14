@@ -34,8 +34,8 @@
 
 一条是上行回库，一条是下行进交路
 
-![.](others/MTR/正确示范.png)
+![.](/others/MTR/正确示范.png)
 
-![.](others/MTR/错误示范.png)
+![.](/others/MTR/错误示范.png)
 
 
