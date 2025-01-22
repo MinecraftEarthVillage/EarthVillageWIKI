@@ -60,7 +60,7 @@ export const NAV_DATA: NavData[] = [
       {
         icon: 'https://crafthead.net/avatar/8667ba71b85a4004af54457a9734eed7',
         title: '皮肤/昵称',
-        desc: '传自定义你的外观',
+        desc: '自定义你的外观',
         link: '/article/皮肤',
       },
       {
