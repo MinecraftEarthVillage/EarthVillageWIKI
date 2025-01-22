@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/maomao1996/picture/main/vitepress-nav-template/home.webp" alt="home" />
 </p>
-<p align="center"> 基于 <b>VitePress</b> 和<b>[茂茂网页模板]([https://github.com/maomao1996/](https://github.com/maomao1996/vitepress-nav-template))</b>的地球村新人入坑指南 </p>
+<p align="center"> 基于 <b>VitePress</b> 和<b>[茂茂网页模板](https://github.com/maomao1996/vitepress-nav-template)</b>的地球村新人入坑指南 </p>
 <p align='center'><a href="http://wiki.earthvillage.top">地球村的百科全书</a> | <a href="https://lezi.earthvillage.top/">《名人堂》</a></p>
 
 ---
