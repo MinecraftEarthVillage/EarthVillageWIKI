@@ -1,7 +1,7 @@
 # vitepress-nav-template
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/maomao1996/picture/main/vitepress-nav-template/home.webp](https://avatars.githubusercontent.com/u/141799770?v=4)" alt="home" />
+  <img src="https://avatars.githubusercontent.com/u/141799770?v=4" alt="home" />
 </p>
 <p align="center"> 基于 <b>VitePress</b> 和[茂茂网页模板](https://github.com/maomao1996/vitepress-nav-template)的地球村新人入坑指南 </p>
 
