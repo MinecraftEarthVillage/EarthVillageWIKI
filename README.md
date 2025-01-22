@@ -1,4 +1,4 @@
-# vitepress-nav-template
+# 很简洁的简介
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/141799770?v=4" alt="home" />
