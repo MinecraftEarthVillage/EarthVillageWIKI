@@ -53,7 +53,7 @@ export const NAV_DATA: NavData[] = [
     items: [
       {
         icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%91%91.svg',
-        title: '王国系统',
+        title: '部落&国家',
         desc: '为团体服务的领地保护与国战系统',
         link: '/article/王国',
       },
