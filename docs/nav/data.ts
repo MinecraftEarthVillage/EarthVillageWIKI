@@ -118,4 +118,15 @@ export const NAV_DATA: NavData[] = [
       },
     ],
   },
+  {
+    title: '？？？',
+    items:[
+      {
+        icon:'',
+        title:'地球往事',
+        desc:'原创世界观，以另一个角度解读MC的背景故事',
+        link:'/article/原创世界观',
+      }
+    ]
+  },
 ]
