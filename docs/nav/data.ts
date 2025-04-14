@@ -81,6 +81,12 @@ export const NAV_DATA: NavData[] = [
         desc: '独家创造模式体验系统，随时切换游戏模式',
         link: '/article/创造模式体验系统',
       },
+      {
+        icon: '',
+        title: '小游戏服务器',
+        desc: '随便玩玩',
+        link: '/article/小游戏服务器',
+      },
     ],
   },
   {
