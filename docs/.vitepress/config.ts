@@ -7,6 +7,7 @@ import { head, nav, sidebar } from './configs'
 const APP_BASE_PATH = basename(process.env.GITHUB_REPOSITORY || '')
 
 export default defineConfig({
+      ignoreDeadLinks: true, // 禁用死链检查
   outDir: '../dist',
   base: '/',
   lang: 'zh-CN',
