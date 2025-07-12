@@ -10,19 +10,19 @@ export const NAV_DATA: NavData[] = [
     title: '入门',
     items: [
       {
-        icon: 'https://caniuse.com/img/favicon-128.png',
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%A4%AA.svg',
         title: '最基础',
         desc: '笨蛋式教学',
         link: '/article/基础',
       },
       {
-        icon: 'https://tinypng.com/images/apple-touch-icon.png',
+        icon: 'https://mwstats.info/images/sprites-2024-transparent/Type052D.webp',
         title: '菜单',
         desc: '几乎所有的功能都在里面了，笨蛋式教学，让你学会主菜单的正确食用方式',
         link: '/article/菜单',
       },
       {
-        icon: 'https://caniuse.com/img/favicon-128.png',
+        icon: 'http://map.earthvillage.top/%E5%9B%BE%E7%89%87/world.png',
         title: '地图集',
         desc: '可以让你随时查看不同视角地图，还能作为聊天室',
         link: '/article/地图',
@@ -82,8 +82,8 @@ export const NAV_DATA: NavData[] = [
         link: '/article/创造模式体验系统',
       },
       {
-        icon: '',
-        title: '小游戏服务器',
+        icon: 'https://www.emojiall.com/en/header-svg/%F0%9F%8E%AE%EF%B8%8F.svg',
+        title: '小游戏服务器（已停运）',
         desc: '随便玩玩',
         link: '/article/小游戏服务器',
       },
