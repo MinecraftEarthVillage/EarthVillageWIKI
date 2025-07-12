@@ -16,7 +16,7 @@ export const NAV_DATA: NavData[] = [
         link: '/article/基础',
       },
       {
-        icon: 'https://mwstats.info/images/sprites-2024-transparent/Type052D.webp',
+        icon: '/others/菜单/Type052D.webp',
         title: '菜单',
         desc: '几乎所有的功能都在里面了，笨蛋式教学，让你学会主菜单的正确食用方式',
         link: '/article/菜单',
