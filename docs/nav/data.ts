@@ -128,11 +128,17 @@ export const NAV_DATA: NavData[] = [
     title: '？？？',
     items:[
       {
-        icon:'',
+        icon:'https://www.emojiall.com/en/header-svg/%F0%9F%9B%B0.svg',
         title:'地球往事',
         desc:'原创世界观，以另一个角度解读MC的背景故事',
         link:'/article/原创世界观',
-      }
+      },
+      {
+        icon:'https://www.emojiall.com/images/120/samsung/262d.png',
+        title:'六四事件正确解读',
+        desc:'八九年的事件是瞒不住的！牺牲在维和前线的烈士英雄是不可遗忘的！作为对外网反华乐子的回应而编写本文',
+        link:'/article/8964',
+      },
     ]
   },
 ]
