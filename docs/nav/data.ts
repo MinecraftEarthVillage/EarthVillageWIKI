@@ -98,12 +98,12 @@ export const NAV_DATA: NavData[] = [
         desc: '不只是轨道~',
         link: '/article/mtr',
       },
-     {
-        icon: '/others/MTR/图标/铁路.jpg',
-        title: 'MTR帮助',
-        desc: '关于MTR（铁路部分）的常见问题文档',
-        link: '/article/mtrquesten',
-      },
+    //  {
+    //     icon: '/others/MTR/图标/铁路.jpg',
+    //     title: 'MTR帮助',
+    //     desc: '关于MTR（铁路部分）的常见问题文档',
+    //     link: '/article/mtrquesten',
+    //   },
       {
         icon: '/others/MTR/图标/船.png',
         title: 'MTR-航海',
