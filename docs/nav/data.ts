@@ -93,25 +93,25 @@ export const NAV_DATA: NavData[] = [
     title: 'MOD部分',
     items: [
       {
-        icon: 'https://i.mcmod.cn/class/cover/20210723/1626978462_14273_psym.jpg',
+        icon: '/others/MTR/图标/铁路.jpg',
         title: 'MTR铁路',
         desc: '不只是轨道~',
         link: '/article/mtr',
       },
      {
-        icon: 'https://i.mcmod.cn/class/cover/20210723/1626978462_14273_psym.jpg',
+        icon: '/others/MTR/图标/铁路.jpg',
         title: 'MTR帮助',
         desc: '关于MTR（铁路部分）的常见问题文档',
         link: '/article/mtrquesten',
       },
       {
-        icon: 'https://i.mcmod.cn/item/icon/128x128/60/608415.png',
+        icon: '/others/MTR/图标/船.png',
         title: 'MTR-航海',
         desc: '不只是轨道~',
         link: '/article/mtr航海',
       },
       {
-        icon: 'https://i.mcmod.cn/item/icon/128x128/67/678968.png',
+        icon: '/others/MTR/图标/飞机.png',
         title: 'MTR-航空',
         desc: '不只是轨道~',
         link: '/article/mtr飞机',
