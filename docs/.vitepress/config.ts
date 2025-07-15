@@ -66,14 +66,14 @@ export default defineConfig({
 
     /*** 自定义配置 ***/
     visitor: {
-      badgeId: 'MinecraftEarthVillage.Mohist',
+      badgeId: 'MinecraftEarthVillage.EarthVillageWIKI',
     },
 
     comment: {
-      repo: 'maomao1996/vitepress-nav-template',
-      repoId: 'R_kgDOJC09Jg',
+      repo: 'MinecraftEarthVillage/EarthVillageWIKI',
+      repoId: 'R_kgDONaLLJg',
       category: 'Announcements',
-      categoryId: 'DIC_kwDOJC09Js4Cekn0',
+      categoryId: 'DIC_kwDONaLLJs4Cs9m3',
     },
   },
 
