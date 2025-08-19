@@ -34,6 +34,13 @@ export const NAV_DATA: NavData[] = [
         desc: '地球村MOD客户端全家桶，解锁所有玩法最好的选择！',
         link: 'https://www.123pan.com/s/WiuUVv-KNG0H.html',
       },
+      {
+        icon: 'http://avatars.githubusercontent.com/u/165374090?s=48&v=4',
+        title: '好东西',
+        desc: '自由欢乐访问器妙妙工具（bush）',
+        link: 'https://earthvillage.top/vpn',
+      },
+
 /*       {
         icon: 'https://tool.lu/favicon.ico',
         title: '在线工具',
