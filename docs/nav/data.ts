@@ -38,7 +38,7 @@ export const NAV_DATA: NavData[] = [
         icon: 'http://avatars.githubusercontent.com/u/165374090?s=48&v=4',
         title: '好东西',
         desc: '自由欢乐访问器妙妙工具（bush）',
-        link: '../vpn',
+        link: '../../vpn',
       },
 
 /*       {
