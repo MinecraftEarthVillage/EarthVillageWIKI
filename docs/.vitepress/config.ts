@@ -9,7 +9,7 @@ const APP_BASE_PATH = basename(process.env.GITHUB_REPOSITORY || '')
 export default defineConfig({
       ignoreDeadLinks: true, // 禁用死链检查
   outDir: '../dist',
-  base: '/',
+  base: APP_BASE_PATH ? `/${APP_BASE_PATH}/` : '/',
   lang: 'zh-CN',
   title: '地球村文档',
   description: '如果有新人问你服务器咋玩，把这个丢过去',
