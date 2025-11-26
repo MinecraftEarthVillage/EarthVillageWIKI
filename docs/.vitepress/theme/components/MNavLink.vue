@@ -23,6 +23,10 @@ const svg = computed(() => {
   if (typeof props.icon === 'object') return props.icon.svg
   return ''
 })
+// 新增：处理链接的 base 路径
+const resolvedLink = computed(() => {
+  return withBase(props.link)
+})
 </script>
 
 <template>
