@@ -16,9 +16,9 @@ hero:
       link: /nav/
       theme: alt
     - text: 地球村地图集
-      link: https://map.earthvillage.top
+      link: /MinecraftEarthVillageMap
     - text: 逆天名人榜
-      link: https://lezi.earthvillage.top
+      link: /lezi
     - text: 测试页
       link: /test
       theme: alt
