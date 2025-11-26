@@ -16,9 +16,9 @@ hero:
       link: /nav/
       theme: alt
     - text: 地球村地图集
-      link: /MinecraftEarthVillageMap
+      link: /Map
     - text: 逆天名人榜
-      link: /lezi
+      link: /fool
     - text: 测试页
       link: /test
       theme: alt
