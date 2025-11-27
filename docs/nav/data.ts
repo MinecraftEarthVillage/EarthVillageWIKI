@@ -37,8 +37,8 @@ export const NAV_DATA: NavData[] = [
       {
         icon: 'http://avatars.githubusercontent.com/u/165374090?s=48&v=4',
         title: '好东西',
-        desc: '自由欢乐访问器妙妙工具（bush）',
-        link: '/minecraftearthvillage.github.io/VPN',
+        desc: '自由欢乐访问器——这是待会要用到的妙妙工具（bush）',
+        link: 'https://minecraftearthvillage.github.io/VPN/',
       },
 
 /*       {
