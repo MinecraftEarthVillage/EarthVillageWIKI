@@ -18,7 +18,7 @@ hero:
     - text: 地球村地图集
       link: /Map
     - text: 逆天名人榜
-      link: /fool
+      link: //minecraftearthvillage.github.io/fool
     - text: 测试页
       link: /test
       theme: alt
