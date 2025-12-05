@@ -7,7 +7,7 @@
 
 ## 开始阅读
 
-<p align='center'><a href="http://wiki.earthvillage.top">地球村的百科全书</a> | <a href="https://lezi.earthvillage.top/">《名人堂》</a></p>
+<p align='center'><a href="http://www.globalvillage.广东/WIKI">地球村的百科全书</a> | <a href="https://www.globalvillage.广东/fool/">《名人堂》</a></p>
 
 ---
 
