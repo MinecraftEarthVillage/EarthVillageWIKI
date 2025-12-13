@@ -131,6 +131,7 @@ export const NAV_DATA: NavData[] = [
       },
     ],
   },
+
   {
     title: '？？？',
     items:[
@@ -140,12 +141,14 @@ export const NAV_DATA: NavData[] = [
         desc:'原创世界观，以另一个角度解读MC的背景故事',
         link:'/article/原创世界观',
       },
+/*
       {
         icon:'https://www.emojiall.com/images/120/samsung/262d.png',
         title:'六四事件正确解读',
         desc:'八九年的事件是瞒不住的！牺牲在维和前线的烈士英雄是不可遗忘的！作为对外网反华乐子的回应而编写本文',
         link:'/article/8964',
       },
+*/
     ]
   },
 ]
