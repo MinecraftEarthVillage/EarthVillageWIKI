@@ -16,7 +16,7 @@ hero:
       link: /nav/
       theme: alt
     - text: 地球村地图集
-      link: /Map
+      link: //minecraftearthvillage.github.io/Map
     - text: 逆天名人榜
       link: //minecraftearthvillage.github.io/fool
     - text: 测试页
